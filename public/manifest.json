@@ -1,6 +1,6 @@
 {
-  "name": "img-app",
-  "short_name": "img-app",
+  "name": "price-offers-app",
+  "short_name": "price-offers-app",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
