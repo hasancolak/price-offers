@@ -1,0 +1,50 @@
+{
+  "name": "vue-price-offers",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "server": "nodemon server.js",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "start": "concurrently \"npm run server\" \"npm run serve\"",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@mdi/font": "^3.6.95",
+    "@mdi/js": "^5.8.55",
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "core-js": "^2.6.5",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.20.0",
+    "lodash-es": "^4.17.15",
+    "nprogress": "^0.2.0",
+    "register-service-worker": "^1.6.2",
+    "roboto-fontface": "*",
+    "vue": "^2.6.10",
+    "vue-infinite-scroll": "^2.0.2",
+    "vue-router": "^3.0.3",
+    "vue-svgicon": "^3.2.6",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-plugin-pwa": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "concurrently": "^5.0.0",
+    "chai": "^4.1.2",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^1.19.3",
+    "sass-loader": "^7.1.0",
+    "vue-cli-plugin-vuetify": "~2.0.7",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

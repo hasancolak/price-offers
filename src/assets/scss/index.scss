@@ -1,0 +1,24 @@
+@import './variables';
+@import '~nprogress/nprogress.css';
+
+body {
+  font-family: Roboto,sans-serif;
+}
+#nprogress .bar {
+  background: $secondaryColor;
+  height: 4px;
+}
+#nprogress .peg {
+  box-shadow: 0 0 10px $secondaryColor, 0 0 5px $secondaryColor;
+}
+#nprogress .spinner-icon {
+  border-top-color: $secondaryColor;
+  border-left-color: $secondaryColor;
+}
+
+@media only screen and (min-width: 960px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+

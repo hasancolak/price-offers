@@ -1,0 +1,242 @@
+[
+  {
+    "origin": "MAD",
+    "destination": "LON",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 2,
+    "price": { "amount": 318.26, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "MA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "COL",
+    "destination": "DUS",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 12,
+    "price": { "amount": 135.84, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "CO00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "ZUR",
+    "destination": "ATH",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 5,
+    "price": { "amount": 142.18, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "ZU00003-b790715d-b2b8-4d23-ac27-d4rte88c0e84af"
+  },
+  {
+    "origin": "LIS",
+    "destination": "COL",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 9,
+    "price": { "amount": 98.25, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LI00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "BAR",
+    "destination": "MUN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 1,
+    "price": { "amount": 212.48, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "BA00003-b790715d-b2b8-4d23-ac27-ad4e88c0e84af"
+  },
+  {
+    "origin": "LON",
+    "destination": "DUS",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 3,
+    "price": { "amount": 86.27, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LO00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "DUS",
+    "destination": "LON",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 15,
+    "price": { "amount": 91.25, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "DA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "MUN",
+    "destination": "COL",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 4,
+    "price": { "amount": 64.87, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "MU00003-c8740715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "ZUR",
+    "destination": "LIS",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 8,
+    "price": { "amount": 178.96, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LIZ00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "MAD",
+    "destination": "BAR",
+    "departureDate": "2017-01-21",
+    "returnDate": "2017-01-24",
+    "seatAvailability": 13,
+    "price": { "amount": 156.85, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "BM00003-b790715d-b2b8-4d23-ac27-d4e8w8c0e84af"
+  },
+  {
+    "origin": "BAR",
+    "destination": "COL",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 17,
+    "price": { "amount": 108.2, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "GB00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "LON",
+    "destination": "MUN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 9,
+    "price": { "amount": 197.15, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "ML00003-b790715d-b2afb8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "MAD",
+    "destination": "MUN",
+    "departureDate": "2017-01-07",
+    "returnDate": "2017-01-09",
+    "seatAvailability": 1,
+    "price": { "amount": 78.26, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "MA00003-b790715d-b2b8-4d23-ac27-d4e88c03e84af"
+  },
+  {
+    "origin": "COL",
+    "destination": "MAD",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 6,
+    "price": { "amount": 95.84, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "CDO00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "ZUR",
+    "destination": "MAD",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 3,
+    "price": { "amount": 142.18, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "ZU00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "LIS",
+    "destination": "MAD",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 13,
+    "price": { "amount": 78.25, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LI00003-b790715d-b2b8-4d23-ac27-d4e88ca0e84af"
+  },
+  {
+    "origin": "BAR",
+    "destination": "LON",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 19,
+    "price": { "amount": 212.48, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "BA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "LON",
+    "destination": "MUN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 24,
+    "price": { "amount": 89.57, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LO00003-b790715d-b2rtb8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "DUS",
+    "destination": "LON",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 21,
+    "price": { "amount": 99.25, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "DA00003-b790715d-b2b8-4d23-ac27-d4e88ac0e84af"
+  },
+  {
+    "origin": "MUN",
+    "destination": "COL",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 16,
+    "price": { "amount": 64.87, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "MU00003-c8740715d-b2b8-4dsdf23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "ZUR",
+    "destination": "GEN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 27,
+    "price": { "amount": 188.26, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "LIZ00003-b790715d-b2b8-4d23-acr27-d4e88c0e84af"
+  },
+  {
+    "origin": "MAD",
+    "destination": "GEN",
+    "departureDate": "2017-01-25",
+    "returnDate": "2017-01-28",
+    "seatAvailability": 13,
+    "price": { "amount": 151.91, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "BM00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  },
+  {
+    "origin": "BAR",
+    "destination": "GEN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 25,
+    "price": { "amount": 118.2, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "GB00003-b790715d-b2b8-4d23-aca27-d4e88c0e84af"
+  },
+  {
+    "origin": "LON",
+    "destination": "GEN",
+    "departureDate": "2017-01-13",
+    "returnDate": "2017-01-14",
+    "seatAvailability": 29,
+    "price": { "amount": 197.15, "currency": "EUR" },
+    "offerType": "BestPrice",
+    "uuid": "ML00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af"
+  }
+]
